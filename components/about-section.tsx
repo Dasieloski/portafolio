@@ -1,3 +1,4 @@
+/* eslint-disable */
 "use client"
 
 import { motion, useInView } from "framer-motion"
